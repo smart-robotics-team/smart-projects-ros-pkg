@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ros:Package xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ros="http://ros/1.0" name="bluetooth_weather" author="Joffrey Kriegel" author_email="kriegel.joffrey@gmail.com" description="The bluetooth_weather package" license="GPLv3">
+  <node name="bluetooth_weather" frequency="0.5">
+    <publisher name="temperature" msg="std_msgs::Float32"/>
+    <publisher name="humidity" msg="std_msgs::Float32"/>
+    <publisher name="pressure" msg="std_msgs::Float32"/>
+  </node>
+  <depend>std_msgs</depend>
+</ros:Package>

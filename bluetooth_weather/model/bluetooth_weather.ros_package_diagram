@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:ros="http://ros/1.0" xmi:id="_FGpxcG9dEeWrXfHaSKe-hw" type="RosPackage" name="bluetooth_weather.ros_package_diagram" measurementUnit="Pixel">
+  <children xmi:type="notation:Shape" xmi:id="_F4rrUG9dEeWrXfHaSKe-hw" type="2001" fontName="Ubuntu">
+    <children xmi:type="notation:DecorationNode" xmi:id="_F4tggG9dEeWrXfHaSKe-hw" type="5008"/>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_F4uuoG9dEeWrXfHaSKe-hw" type="7001">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_F4uuoW9dEeWrXfHaSKe-hw" showTitle="true"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_F4uuom9dEeWrXfHaSKe-hw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_F4uuo29dEeWrXfHaSKe-hw"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_UDPFgG9dEeWrXfHaSKe-hw" type="3004">
+      <children xmi:type="notation:DecorationNode" xmi:id="_UDQToG9dEeWrXfHaSKe-hw" type="5004"/>
+      <styles xmi:type="notation:DescriptionStyle" xmi:id="_UDPFgW9dEeWrXfHaSKe-hw"/>
+      <styles xmi:type="notation:FontStyle" xmi:id="_UDPFgm9dEeWrXfHaSKe-hw" fontName="Ubuntu"/>
+      <element xmi:type="ros:Publisher" href="bluetooth_weather.ros_package#//@node.0/@publisher.0"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UDPFg29dEeWrXfHaSKe-hw" x="360" y="36"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_VVn6cG9dEeWrXfHaSKe-hw" type="3004">
+      <children xmi:type="notation:DecorationNode" xmi:id="_VVohgG9dEeWrXfHaSKe-hw" type="5004"/>
+      <styles xmi:type="notation:DescriptionStyle" xmi:id="_VVn6cW9dEeWrXfHaSKe-hw"/>
+      <styles xmi:type="notation:FontStyle" xmi:id="_VVn6cm9dEeWrXfHaSKe-hw" fontName="Ubuntu"/>
+      <element xmi:type="ros:Publisher" href="bluetooth_weather.ros_package#//@node.0/@publisher.1"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_VVn6c29dEeWrXfHaSKe-hw" x="360" y="132"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_WVk7kG9dEeWrXfHaSKe-hw" type="3004">
+      <children xmi:type="notation:DecorationNode" xmi:id="_WVlioG9dEeWrXfHaSKe-hw" type="5004"/>
+      <styles xmi:type="notation:DescriptionStyle" xmi:id="_WVk7kW9dEeWrXfHaSKe-hw"/>
+      <styles xmi:type="notation:FontStyle" xmi:id="_WVk7km9dEeWrXfHaSKe-hw" fontName="Ubuntu"/>
+      <element xmi:type="ros:Publisher" href="bluetooth_weather.ros_package#//@node.0/@publisher.2"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_WVk7k29dEeWrXfHaSKe-hw" x="360" y="84"/>
+    </children>
+    <element xmi:type="ros:Node" href="bluetooth_weather.ros_package#//@node.0"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_F4rrUW9dEeWrXfHaSKe-hw" x="336" y="120" width="361" height="157"/>
+  </children>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_FGqYgG9dEeWrXfHaSKe-hw"/>
+  <element xmi:type="ros:Package" href="bluetooth_weather.ros_package#/"/>
+</notation:Diagram>
